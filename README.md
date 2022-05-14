@@ -1,1 +1,1 @@
-This printf project is acollaboration project between Abdrohman And Abraham.
+this collaboration project between Abdrohman and Abraham
