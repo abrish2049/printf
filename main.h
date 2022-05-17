@@ -1,6 +1,6 @@
-fndef HOLBERTON_H
+#ifndef MAIN_H
 
-#define HOLBERTON_H
+#define MAIN_H
 
 
 
@@ -32,7 +32,7 @@ typedef struct structprint
 
 		char *q;
 
-			int (*u)(char *format, va_list);
+		int (*u)(char *format, va_list);
 
 } structype;
 
